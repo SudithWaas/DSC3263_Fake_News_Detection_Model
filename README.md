@@ -1,4 +1,4 @@
-# DSC3263_Fake_News_Detection_Model
+# DSC3263 Fake News Detection Model
 ### Project: Contextualized Fake News Detection Using Transformer Models 
 
 Group Members: 
